@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hitenweb3
 - 👀 I’m interested in building web3 products
 - 🌱 I’m getting back to programming after a hiatus
-- 📝 Looking to write as well soon
+- 📝 Working on my writing skills [(here)](https://pages.github.com/)
 
 <!---
 Hitenweb3/Hitenweb3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
